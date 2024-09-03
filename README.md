@@ -37,10 +37,6 @@ We apply the idea of drowsiness detection to a virtual classroom / online MOOC p
 ###### Fig 5: Web Application Demo 
 
 
-## Authors
-
-* [Samradh Agarwal](https://github.com/Samradh007)
-* [Abhishek Tandon](https://github.com/Tandon-A)
 
 
 
